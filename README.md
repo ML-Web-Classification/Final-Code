@@ -24,8 +24,9 @@ Classify 95 monitored website traces with unique labels against additional unmon
 We used a decision tree and a random forest model.
 
 ### 💡 How to RUN
-You can download monitored and unmonitored data from the data folder. <br/> 
-You can run the code in Colab. Please upload the downloaded data to Colab's file.
+You can download monitored and unmonitored data from the below google drive. <br/> 
+[dataset] (https://drive.google.com/drive/folders/13sDplxKUNmntbYr6WhpqQARiBvH41Oum)
+<br/> You can run the code in Colab. Please upload the downloaded data to Colab's file.
 
 #### ‼️ You need to replace the path in this code with the absolute path of the files `mon_standard10.pkl` and `unmon_standard10_3000.pkl` on your drive ‼️
 
